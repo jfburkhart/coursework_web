@@ -1,3 +1,9 @@
+
+|Docs   |
+|---------|
+| [![Doc Development](https://readthedocs.org/projects/geophysical-data-science/badge/?version=latest)](http://geophysical-data-science.readthedocs.io/en/latest/) |
+
+
 README
 ======
 
