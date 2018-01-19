@@ -3,15 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Burkhart UiO Courses's documentation!
-================================================
+.. intro:
 
-Contents:
+************************************************************
+GPDS: Geophysical Data Science
+************************************************************
+
+Welcome to the Geophysical Data Science workspace. Herein you'll find information and content
+related to the development of knowledge and understanding of physical processes in the Earth
+Sytem and statistical tools to analyze them.
+
+As a start, the material is based on course exercises and lectures. You are free to utilize this
+material, but encouraged strongly to contribute back.
+
+Most of the activities and lectures are based on `jupyter notebooks <jupyter.org>`, and in general
+utilize the python programming language.
+
+
+.. courses:
+
+Course Material
+===================
+
+Currently material from courses at the University of Oslo are provided. This includes:
 
 .. toctree::
    :maxdepth: 1
 
    GEO4310/index.rst
+
+
+
+
 
 
 
