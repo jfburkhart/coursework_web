@@ -24,17 +24,17 @@ import shutil
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 rtd_theme = False
 
-if on_rtd:
-    if os.path.exists('notebooks/'):
-        shutil.rmtree('notebooks', ignore_errors=True)
-    shutil.copytree('../notebooks', 'notebooks')
-else:
-    try:
-        import sphinx_rtd_theme
-        rtd_theme = True
-    except:
-        rtd_theme = False
-        pass
+#if on_rtd:
+#    if os.path.exists('notebooks/'):
+#        shutil.rmtree('notebooks', ignore_errors=True)
+#        shutil.copytree('../notebooks', 'notebooks')
+#else:
+#    try:
+#        import sphinx_rtd_theme
+#        rtd_theme = True
+#    except:
+#        rtd_theme = False
+#        pass
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
