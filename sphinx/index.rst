@@ -19,6 +19,8 @@ material, but encouraged strongly to contribute back.
 Most of the activities and lectures are based on `jupyter notebooks <jupyter.org>`, and in general
 utilize the python programming language.
 
+All material Copyright, 2013-2018
+
 
 .. courses:
 
