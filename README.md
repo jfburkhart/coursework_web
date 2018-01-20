@@ -13,3 +13,5 @@ A repository for the development of teaching resources related primarily to the 
 
 For further information contact: [John F. Burkhart](https://folk.uio.no/~johnbur)
 
+Copyright, John F. Burkhart, 2018
+
