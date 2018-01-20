@@ -29,10 +29,11 @@ Course Material
 
 Currently material from courses at the University of Oslo are provided. This includes:
 
+
 .. toctree::
    :maxdepth: 1
 
-   GEO4310/index.rst
+    GEO4310/index.rst
 
 
 
